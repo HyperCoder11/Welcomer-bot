@@ -1,0 +1,16 @@
+{
+  "token": "Bot token",
+  "prefix": "!",
+  "welcome_channel": "welcome", 
+  "embed_emoji": "",
+  "logchannel": "logs",
+  "activity1": "for new users!",
+  "type1": "WATCHING",
+  "activity2": "version 2.0",
+  "type2": "PLAYING",
+  "activitytime": "15000",
+  "ownerID": "532677204220444682",
+  "customtext": "Have a nice time.",
+  "embed_color": "363A3F",
+  "embed_guildname": ""
+}
